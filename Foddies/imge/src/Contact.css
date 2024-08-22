@@ -1,0 +1,75 @@
+/* Footer.css */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+  
+  .footer-section {
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .footer-section h3 {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 18px;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .address-title,
+  .follow-title {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .address p {
+    margin: 5px 0;
+  }
+  
+  .opening-hours p {
+    margin: 5px 0;
+  }
+  
+  .form-section form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-section input,
+  .form-section textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .form-section button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-section button:hover {
+    background-color: #0056b3;
+  }
+  

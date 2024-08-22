@@ -1,0 +1,36 @@
+/* App.css */
+body{
+  background-color: white;
+  color: black;
+}
+/* Center-align the heading in the menu section */
+.menu-container h2 {
+  text-align: center; /* Center-align the text */
+  margin-bottom: 1em; /* Add space below the heading */
+  margin-top:10px ;
+}
+.h1{
+  margin-top: 10px;
+}
+
+.container {
+  display: flex; 
+  gap: 1em;
+  flex-wrap: nowrap; 
+}
+img {
+  width: 70%; 
+  
+  height: 50%; 
+ 
+ 
+  margin: 0 auto 1em;
+}
+
+p {
+  margin: 0; 
+  padding: 0; 
+  text-align: justify; 
+  width: 70%; 
+}
+
