@@ -3,7 +3,7 @@ import './Menu.css';
 
 const Menu = () => {
   return (
-    <div className="menu-container"> {/* Ensure this matches the CSS selector */}
+    <div className="menu-container"> 
       <h2>Menu</h2>
       <div className="container">
         <div className="image-text-wrapper">

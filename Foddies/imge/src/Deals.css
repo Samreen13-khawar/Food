@@ -11,15 +11,15 @@ body {
     justify-content: space-around;
     padding: 20px;
 }
-/* Styling for <h1> elements */
+
 h1 {
-    font-size: 32px; /* Adjust font size */
-    font-weight: bold; /* Make text bold */
-    color: black; /* Set text color */
-    text-align: center; /* Center-align the text */
-    margin: 20px 0; /* Add space above and below the heading */
-    padding: 10px; /* Add padding around the text */
-    text-transform: uppercase; /* Make text uppercase */
+    font-size: 32px; 
+    font-weight: bold; 
+    color: black; 
+    text-align: center; 
+    margin: 20px 0; 
+    padding: 10px; 
+    text-transform: uppercase; 
     font-weight: bold;
 }
 

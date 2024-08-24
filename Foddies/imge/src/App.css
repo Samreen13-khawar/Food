@@ -1,12 +1,12 @@
-/* App.css */
+
 body{
   background-color: white;
   color: black;
 }
-/* Center-align the heading in the menu section */
+
 .menu-container h2 {
-  text-align: center; /* Center-align the text */
-  margin-bottom: 1em; /* Add space below the heading */
+  text-align: center;
+  margin-bottom: 1em; 
   margin-top:10px ;
 }
 .h1{
